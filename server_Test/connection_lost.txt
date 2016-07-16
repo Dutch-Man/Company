@@ -1,0 +1,80 @@
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+[RobotProtocolFactory] Connection lost (IPv4Address(TCP, '120.76.189.9', 5010)): [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
