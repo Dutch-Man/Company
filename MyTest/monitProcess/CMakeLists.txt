@@ -1,5 +1,0 @@
-cmake_minimum_required(VERSION 2.5)
-project(MyTest)
-set(top_dir ${PROJECT_SOURCE_DIR})
-set(EXECUTABLE_OUTPUT_PATH ${top_dir}/bin)
-add_subdirectory(src)
