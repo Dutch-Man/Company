@@ -4,16 +4,18 @@ from twisted.internet import task
 from twisted.internet import reactor
 from twisted.internet import stdio
 import time
-import random
+
 def shutdown():
     print "Terminating ...... "
 
-def showInfo():
-    print random.randint(60,120)
+def showTime(num1,num2,num3):
+#    print time.strptime(a, "%Y-%m-%d %H:%M:%S") 
+    print num1,num2,num3
+    print time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time.time()))
 def main():
     #print "running..."
     num = 1
-    myloop = task.LoopingCall(showInfo)
+    myloop = task.LoopingCall(showTime,num,num+1,num+2)
     myloop.start(1)
     reactor.addSystemEventTrigger('before', 'shutdown', shutdown)
     reactor.run()
