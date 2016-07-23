@@ -19,7 +19,7 @@ int main()
 
 }
 */
-int main()
+int main_m()
 {
     map<int,string> mapStudent;
     mapStudent.insert(pair<int,string>(2,"Lucy"));

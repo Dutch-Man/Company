@@ -1,12 +1,14 @@
-/*
 #include "CTest.h"
+#include <iostream>
+
 int main()
 {
-    CTest test;
-    test.show();
+    //CTest test;
+    //test.show();
+    std::cout<<"xxxxx\0xxxxxxx";
     return 0;
 }
-*/
+/*
 #include <iostream>
 #include <sys/time.h>
 #include <stdio.h>
@@ -47,3 +49,4 @@ int main_1 (void)
 #undef A
 
 }
+*/
