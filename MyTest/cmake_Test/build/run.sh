@@ -1,4 +1,7 @@
+mv run.sh ../
+rm -rf *
 cmake ..
+make clean
 make
-echo "Start running program ..."
 ./../bin/Test
+mv ../run.sh ./
