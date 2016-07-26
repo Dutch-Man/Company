@@ -4,7 +4,7 @@
 #include <string>
 using namespace std;
 #include "Clib.h"
-int main()
+int _main()
 {
     CTest test;
     test.show();
