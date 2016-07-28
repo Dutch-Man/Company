@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/CTest.h
+stdio.h
+-
+
+../lib/Clib/include/Clib.h
+stdio.h
+-
+
+/home/rjp/tmp/github/Company/MyTest/python_C++/src/CTest.cpp
+CTest.h
+/home/rjp/tmp/github/Company/MyTest/python_C++/src/CTest.h
+
+/home/rjp/tmp/github/Company/MyTest/python_C++/src/main.cpp
+stdio.h
+-
+python2.7/Python.h
+-
+Clib.h
+/home/rjp/tmp/github/Company/MyTest/python_C++/src/Clib.h
+Python.h
+-
+

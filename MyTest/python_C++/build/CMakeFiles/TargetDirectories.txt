@@ -1,0 +1,2 @@
+/home/rjp/tmp/github/Company/MyTest/python_C++/build/lib/Clib/src/CMakeFiles/Clib.dir
+/home/rjp/tmp/github/Company/MyTest/python_C++/build/src/CMakeFiles/Test.dir
