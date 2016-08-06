@@ -2,12 +2,22 @@
 #coding:utf-8
 import sys
 import time
+num = 1
+
+def show():
+    global num
+    num += 1
+    print num
 
 def main():
-    a = {'name':'Bruce','age':'24','job':'IT'}
-    print a['name']
-    Data = "xxxxx\0xxxxxxx"
-    print Data
-    
+    show()
+    show()
+    show()
+    show()
+    show()
+    show()
+    show()
+
+ 
 if __name__ == "__main__":
     main()
