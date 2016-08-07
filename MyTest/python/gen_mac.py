@@ -1,7 +1,5 @@
 #!/usr/bin/python
 #coding:utf-8
-import sys
-import time
 import hashlib
 
 def gen_mac_from(strs):
